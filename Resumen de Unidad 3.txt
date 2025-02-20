@@ -1,0 +1,17 @@
+Resumen de Unidad 3:
+
+- Controlador de Versiones
+Programas utiles para llevar un control y registro de los cambios realizados en archivos para diferentes versiones de un programa/aplicacion. Facilitan el trabajo en equipo y la organizacion de los archivos de cada version.
+
+- GitHub
+GitHub es un sitio web que permite a los desarrolladores crear, almacenar, compartir y colaborar en proyectos de código. Es una plataforma basada en la nube que funciona como un centro para trabajar en código. 
+Características de GitHub 
+*Almacenar código en repositorios virtuales
+*Compartir y presentar trabajo
+*Seguir y administrar cambios en el código
+*Solicitar y recibir sugerencias para mejorar el código
+*Trabajar en equipo en proyectos compartidos
+*Informar problemas con el código
+*Asignar tareas y administrar estados de tareas
+
+Lo mas dificil de esta unidad fue el aprender a utilizar apropiadamente el Git CMD Line, pero con revision de la conferencia, las guias de GitHub en linea y preserverancia todo es posible.

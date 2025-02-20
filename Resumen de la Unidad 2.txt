@@ -1,0 +1,17 @@
+Resumen de la Unidad 2:
+
+- Conceptos Basicos Para Iniciar a Programar
+El entendimiento de las variables como datos que almacenan memoria y pueden cambiar de valor, como denotarlas de una manera apropiada, entendible y sencilla para facilitar la lectura del codigo
+
+- Tipos de Datos y Operadores
+Comprender como estos definen los posibles valores y operaciones que se pueden realizar, y su sintaxis en JavaScript para datos y operaciones numeric@s, al igual que los datos  y operaciones logic@s nos permite crear lineas de codigo utiles para resolver problemas o generar una accion.
+
+- Estructuras de Control Condicional
+El entendimiento de como funcionan las instrucciones IF, IF... ELSE, y switch case... break, nos permite darle instrucciones al programa de que accion tomar y como dar un resultado tomando en consideracion los valores de las variables involucradas.
+
+- Estructuras de Control de Bucles
+Comprension del uso de las estructuras For y While, nos permite hacer que se repita un bloque de instrucciones una determinada cantidad de veces.
+
+En esta unidad lo mas importante fueron las sintaxis de datos, tipos de operadores, las estructuras de control condicionales y de bucles.
+
+Lo mas dificil fue realizar la actividad extra pues involucraba el uso de sintaxis no incluida en el contenido, pero google es para el programador lo que es el perro al hombre.

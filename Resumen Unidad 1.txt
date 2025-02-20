@@ -1,0 +1,22 @@
+Resumen Unidad 1:
+
+- Sistema Binario
+Es un sistema numerico en base a 1 y 0, lo cual permite representar datos en una manera mas simple.
+
+- El Binario y Las Computadoras
+Las computadoras usan código binario para leer información por medio de estados de apagado y encendido, los cuales corresponden a 1s y 0s.
+
+- Logica
+Area de la matemática que nos permite determinar los valores de verdad para proposiciones simples o compuestas.
+
+- Algoritmo
+
+Son pasos o acciones explicitas que al ser ejecutados en un orden especifico siempre resuelven un problema.
+
+- Programación
+Es la creación del código que le dice a una computadora de que manera operar para realizar acciones y/o  resolver problemas.
+
+- Editores de Texto y Entornos de Desarrollo
+Se refiere a las diferentes herramientas y editores de código utilizados para la programación.
+
+Creo que en esta unidad todos los temas fueron igualmente importantes, aunque talvez un poco mas el binario ya que este es el fundamento mas básico de como opera una computadora y la raíz de la programación como tal.
